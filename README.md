@@ -269,8 +269,6 @@ Here are two minimal diagram options you can drop straight into a README.
 
 ⸻
 
-Here are several diagram options for the Credentialed Hallucination document:
-
 -----
 
 ## The Credentialed Hallucination Cycle
