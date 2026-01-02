@@ -263,3 +263,311 @@ Permission is not granted to:
 without explicit written permission from the author.
 
 [davarn.trades@gmail.com]
+
+Got it 👍 — diagram only, pure Markdown, clean, GitHub-safe.
+Here are two minimal diagram options you can drop straight into a README.
+
+⸻
+
+Here are several diagram options for the Credentialed Hallucination document:
+
+-----
+
+## The Credentialed Hallucination Cycle
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                   THE CREDENTIALED HALLUCINATION CYCLE                   │
+└─────────────────────────────────────────────────────────────────────────┘
+
+    ┌──────────────┐
+    │   IDENTITY   │
+    │  FORMATION   │
+    └──────┬───────┘
+           │
+           │ "I am an expert in X"
+           │
+           ▼
+    ┌──────────────┐
+    │    BELIEF    │
+    │    FUSION    │────────────┐
+    └──────┬───────┘            │
+           │                    │ Evidence threatens
+           │ Belief becomes     │ self-concept
+           │ part of identity   │
+           │                    │
+           ▼                    ▼
+    ┌──────────────┐      ┌─────────────┐
+    │  DEFENSIVE   │      │  IDENTITY   │
+    │  REASONING   │◄─────┤   THREAT    │
+    └──────┬───────┘      └─────────────┘
+           │
+           │ • Authority appeals
+           │ • Credential invocation
+           │ • Evidence dismissal
+           │
+           ▼
+    ┌──────────────┐
+    │INSTITUTIONAL │
+    │REINFORCEMENT │
+    └──────┬───────┘
+           │
+           │ • Social proof
+           │ • Status protection
+           │ • Peer validation
+           │
+           ▼
+    ┌──────────────┐
+    │   SYSTEMIC   │
+    │ ENTRENCHMENT │
+    └──────┬───────┘
+           │
+           │ Policy, protocol,
+           │ institutional practice
+           │
+           ▼
+    ┌──────────────┐
+    │ CATASTROPHIC │
+    │    UPDATE    │
+    │   TRIGGER    │
+    └──────┬───────┘
+           │
+           │ Death, collapse,
+           │ undeniable failure
+           │
+           ▼
+    ┌──────────────┐
+    │POST-EVENTUAL │
+    │    UPDATE    │
+    └──────────────┘
+           │
+           │ New orthodoxy forms
+           │
+           └──────────► [CYCLE REPEATS]
+```
+
+-----
+
+## Parallel Comparison (AI vs Human Hallucination)
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│           AI HALLUCINATION vs CREDENTIALED HALLUCINATION                 │
+└─────────────────────────────────────────────────────────────────────────┘
+
+   AI HALLUCINATION              CREDENTIALED HALLUCINATION
+   ═════════════════             ═══════════════════════════
+
+   ┌──────────────┐              ┌──────────────────────┐
+   │   Generate   │              │  Expert Generates    │
+   │    Output    │              │      Belief          │
+   └──────┬───────┘              └──────────┬───────────┘
+          │                                 │
+          │                                 │
+          ▼                                 ▼
+   ┌──────────────┐              ┌──────────────────────┐
+   │  Error Token │              │   Belief Fuses       │
+   │   Generated  │              │   with Identity      │
+   └──────┬───────┘              └──────────┬───────────┘
+          │                                 │
+          │                                 │
+          ▼                                 ▼
+   ┌──────────────┐              ┌──────────────────────┐
+   │Output Ends   │              │  Credentials         │
+   │              │              │  Invoked             │
+   └──────┬───────┘              └──────────┬───────────┘
+          │                                 │
+          │                                 │
+          ▼                                 ▼
+   ┌──────────────┐              ┌──────────────────────┐
+   │Hallucination │              │  Social              │
+   │  Contained   │              │  Reinforcement       │
+   └──────────────┘              └──────────┬───────────┘
+                                            │
+         ✓ No Defense                       │
+         ✓ Non-persistent                   ▼
+         ✓ Corrigible                ┌──────────────────────┐
+                                     │  Institutional       │
+                                     │  Embedding           │
+                                     └──────────┬───────────┘
+                                                │
+                                                │
+                                                ▼
+                                     ┌──────────────────────┐
+                                     │  Systemic            │
+                                     │  Governance          │
+                                     └──────────┬───────────┘
+                                                │
+                                                │
+                                                ▼
+                                     ┌──────────────────────┐
+                                     │  Catastrophe         │
+                                     │  Required for Update │
+                                     └──────────────────────┘
+
+                                          ✗ Defended
+                                          ✗ Persistent
+                                          ✗ Institution-Scale
+```
+
+-----
+
+## The Identity Threat Response Model
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                  IDENTITY THREAT RESPONSE MODEL                          │
+│           (Why Structural Critiques Trigger Defensive Cognition)         │
+└─────────────────────────────────────────────────────────────────────────┘
+
+                    STRUCTURAL CRITIQUE
+                           │
+                           │ "Your model is wrong"
+                           │
+                           ▼
+              ┌────────────────────────┐
+              │   COGNITIVE ROUTER     │
+              │                        │
+              │  Is belief fused with  │
+              │      identity?         │
+              └────────┬───────────────┘
+                       │
+          ┌────────────┼────────────┐
+          │                         │
+          ▼                         ▼
+   ┌──────────────┐         ┌──────────────┐
+   │   NO FUSION  │         │ IDENTITY     │
+   │              │         │ FUSION       │
+   └──────┬───────┘         └──────┬───────┘
+          │                        │
+          │                        │
+          ▼                        ▼
+   ┌──────────────┐         ┌──────────────┐
+   │  EPISTEMIC   │         │  DEFENSIVE   │
+   │  EVALUATION  │         │   RESPONSE   │
+   └──────┬───────┘         └──────┬───────┘
+          │                        │
+          │                        ├─────► "I have 20 years experience"
+          │                        ├─────► "Where are YOUR credentials?"
+          │                        ├─────► "This undermines experts"
+          │                        ├─────► "We need more evidence"
+          │                        └─────► "Everyone agrees with me"
+          │
+          ▼
+   ┌──────────────┐
+   │   UPDATE     │
+   │   IF WRONG   │
+   └──────────────┘
+          │
+          │
+          ▼
+   PRE-EVENTUAL
+    CORRECTION
+```
+
+-----
+
+##  Historical Pattern Flow
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│              CREDENTIALED HALLUCINATION: HISTORICAL PATTERN              │
+└─────────────────────────────────────────────────────────────────────────┘
+
+    STRUCTURAL INSIGHT EMERGES
+              │
+              │ (Semmelweis, Wegener, Marshall, etc.)
+              │
+              ▼
+    ┌─────────────────────┐
+    │   CONTRADICTS       │
+    │   PREVAILING        │
+    │   ORTHODOXY         │
+    └──────────┬──────────┘
+               │
+               │
+               ▼
+    ┌─────────────────────┐         ┌─────────────────┐
+    │  IDENTITY THREAT    │────────►│  CREDENTIALS    │
+    │  TRIGGERED          │         │  INVOKED        │
+    └──────────┬──────────┘         └─────────────────┘
+               │
+               │
+               ▼
+    ┌─────────────────────┐
+    │   INSTITUTIONAL     │
+    │   RESISTANCE        │
+    └──────────┬──────────┘
+               │
+               │  • Rejection
+               │  • Ridicule
+               │  • Career destruction
+               │  • Social isolation
+               │
+               ▼
+    ┌─────────────────────┐
+    │   EVIDENCE          │
+    │   ACCUMULATES       │
+    └──────────┬──────────┘
+               │
+               │  (But is ignored)
+               │
+               ▼
+    ┌─────────────────────┐
+    │   CATASTROPHIC      │
+    │   EVENT             │
+    └──────────┬──────────┘
+               │
+               │  Death, collapse,
+               │  undeniable failure
+               │
+               ▼
+    ┌─────────────────────┐
+    │  POST-EVENTUAL      │
+    │  RECOGNITION        │
+    └──────────┬──────────┘
+               │
+               │  Original discoverer
+               │  often dead or discredited
+               │
+               ▼
+    ┌─────────────────────┐
+    │  NEW ORTHODOXY      │
+    │  FORMS              │
+    └─────────────────────┘
+               │
+               └──────► [CYCLE REPEATS WITH NEXT PARADIGM]
+
+
+    TIME DELAY: Typically 20-50 years
+    COST: Preventable deaths, wasted resources, delayed progress
+```
+
+-----
+
+## The Simplest Flow (For Quote Cards/Social)
+
+```
+┌─────────────────────────────────────────────────────┐
+│       THE CREDENTIALED HALLUCINATION LOOP           │
+└─────────────────────────────────────────────────────┘
+
+        IDENTITY FORMATION
+               ↓
+          BELIEF FUSION
+               ↓
+        DEFENSIVE REASONING
+               ↓
+     INSTITUTIONAL REINFORCEMENT
+               ↓
+       SYSTEMIC ENTRENCHMENT
+               ↓
+     CATASTROPHIC UPDATE TRIGGER
+               ↓
+       POST-EVENTUAL UPDATE
+               ↓
+         [CYCLE REPEATS]
+```
+
+-----
+
